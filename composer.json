@@ -23,11 +23,6 @@
       "Ody\\Support\\": "src/"
     }
   },
-  "autoload-dev": {
-    "psr-4": {
-      "Tests\\": "tests/"
-    }
-  },
   "config": {
     "allow-plugins": {
       "php-http/discovery": true
